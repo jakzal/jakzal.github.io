@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Jakub Zalas
+title: GitHub
 ---
 
 English: http://www.zalas.eu
